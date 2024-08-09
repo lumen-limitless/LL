@@ -1,0 +1,12 @@
+{
+  "name": "Lumen Limitless",
+  "symbol": "Limitless",
+  "description": "Lumen Limitless token",
+  "image": "https://raw.githubusercontent.com/solana-developers/opos-asset/main/assets/DeveloperPortal/image.png",
+  "attributes": [
+    {
+      "trait_type": "Item",
+      "value": "Developer Portal"
+    }
+  ]
+}
